@@ -1,0 +1,3 @@
+Model,Training,CleanAcc,FGSMAcc,PGDAcc
+ResNet18,CleanTrain,0.7439,0.0484,0.005
+ResNet18,AdvTrain_FGSM,0.4848,0.3234,0.3114
