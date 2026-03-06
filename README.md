@@ -348,6 +348,21 @@ Understanding adversarial vulnerabilities is essential for deploying reliable ma
 • Adversarial Machine Learning
 
 ---
+# 📚 References
+
+Goodfellow, I., Shlens, J., & Szegedy, C. (2015).  
+Explaining and Harnessing Adversarial Examples.  
+https://arxiv.org/abs/1412.6572
+
+Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018).  
+Towards Deep Learning Models Resistant to Adversarial Attacks.  
+https://arxiv.org/abs/1706.06083
+
+Zhang, H., Yu, Y., Jiao, J., Xing, E., Ghaoui, L., & Jordan, M. (2019).  
+Theoretically Principled Trade-off between Robustness and Accuracy (TRADES).  
+https://arxiv.org/abs/1901.08573
+
+---
 
 # 👨‍💻 Author
 
